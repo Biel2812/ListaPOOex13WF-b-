@@ -1,0 +1,11 @@
+C:\Users\aluno\Downloads\ListaPOOex13WF-main\ListaPOOex13WF-main\PJ013\PJ013\bin\Debug\PJ013.exe.config
+C:\Users\aluno\Downloads\ListaPOOex13WF-main\ListaPOOex13WF-main\PJ013\PJ013\bin\Debug\PJ013.exe
+C:\Users\aluno\Downloads\ListaPOOex13WF-main\ListaPOOex13WF-main\PJ013\PJ013\bin\Debug\PJ013.pdb
+C:\Users\aluno\Downloads\ListaPOOex13WF-main\ListaPOOex13WF-main\PJ013\PJ013\obj\Debug\PJ013.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\ListaPOOex13WF-main\ListaPOOex13WF-main\PJ013\PJ013\obj\Debug\PJ013.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Downloads\ListaPOOex13WF-main\ListaPOOex13WF-main\PJ013\PJ013\obj\Debug\PJ013.frmTrianguloABC.resources
+C:\Users\aluno\Downloads\ListaPOOex13WF-main\ListaPOOex13WF-main\PJ013\PJ013\obj\Debug\PJ013.Properties.Resources.resources
+C:\Users\aluno\Downloads\ListaPOOex13WF-main\ListaPOOex13WF-main\PJ013\PJ013\obj\Debug\PJ013.csproj.GenerateResource.cache
+C:\Users\aluno\Downloads\ListaPOOex13WF-main\ListaPOOex13WF-main\PJ013\PJ013\obj\Debug\PJ013.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\ListaPOOex13WF-main\ListaPOOex13WF-main\PJ013\PJ013\obj\Debug\PJ013.exe
+C:\Users\aluno\Downloads\ListaPOOex13WF-main\ListaPOOex13WF-main\PJ013\PJ013\obj\Debug\PJ013.pdb
